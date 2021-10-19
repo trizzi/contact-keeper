@@ -42,7 +42,7 @@ const AuthState = (props) => {
 		}
 	};
 
-	//     Rgister User
+	//     Register User
 	const register = async (formData) => {
 		const config = {
 			headers: {
