@@ -1,5 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://trizzi:C40KRZklMLV5n3aZ@cluster0.zdosi7a.mongodb.net/",
-    "jwtSecret": "secret"
-  }
-  
+	"mongoURI": "mongodb+srv://trizzi:x3dr8gi70wQUj4hO@cluster0.w0evn.mongodb.net/",
+	"jwtSecret": "secret"
+}
